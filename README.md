@@ -1,15 +1,42 @@
-# Techlog Solutions - C
-A empresa Techlog Soluctions nos contratatou para criar um website para cadstrar seus clientes e sua ordens dde servico. para isso, vamos utilizar Python junto com FastAPI, desenvolvendo tanto o backend quanto o frontend
+# 🛠️ Techlog Solutions — Service Order Management System
 
-## Pre Requisitos: 
-- Python Basico
-- Methodos HTTPs
-- HTML, CSS, JS Basicos
-- orientacao a objetos em Python
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Status](https://img.shields.io/badge/Status-Work_In_Progress-yellow?style=for-the-badge)](#)
 
-## Ferramentas:
-- Python
-- FastAPI
-- Jinja
-- Uvicorn
-- Sqlite
+## 📌 Über das Projekt / About The Project
+
+> 🚧 **Projekt in Bearbeitung / Work in Progress**
+> 
+> Dieses Projekt wird derzeit aktiv entwickelt. Weitere Informationen und eine ausführliche Dokumentation folgen in Kürze.
+
+---
+
+## 🛠️ Technologie-Stack / Tech Stack
+
+| Kategorie | Technologie |
+| :--- | :--- |
+| **Sprache** | Python 3.x |
+| **Framework** | FastAPI |
+| **Template Engine** | Jinja2 |
+| **ASGI Server** | Uvicorn |
+| **Datenbank** | SQLite |
+| **Frontend** | HTML5, CSS3, JavaScript |
+
+---
+
+## 📋 Voraussetzungen / Prerequisites
+
+- Basic Python & Objektorientierte Programmierung (OOP)
+- HTTP-Methoden (`GET`, `POST`, `PUT`, `DELETE`)
+- Grundlagen in HTML, CSS und JavaScript
+
+---
+
+## 🚀 Schnellstart / Quick Start
+
+### 1. Repository klonen
+```bash
+git clone [https://github.com/deunome/techlog-solutions.git](https://github.com/deunome/techlog-solutions.git)
+cd techlog-solutions
